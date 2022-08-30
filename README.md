@@ -15,8 +15,8 @@ Key technologies and npm packages used in this project:
 Viewing the pages is as simple as going to the deployed link below!
 
 ## Links
-- [GitHub repository](https://github.com/kekehua/Portfolio)
-- [Deployed application]( https://kekehua.github.io/Portfolio/)
+- [GitHub repository](https://github.com/kekehua/Simple-Planner)
+- [Deployed application]( https://kekehua.github.io/Simple-Planner/)
 
 ## Screenshots
 
